@@ -1,0 +1,16 @@
+{
+  "name": "autotype",
+  "version": "1.0.0",
+  "description": "A JavaScript plugin that imitates computer typing and erasing effects animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["auto type", "autoType"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsynlms/autotyperjs.git"
+  },
+  "author": "Xin Ning",
+  "license": "MIT"
+}
